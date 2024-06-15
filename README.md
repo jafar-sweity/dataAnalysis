@@ -1,6 +1,6 @@
 # Python Data Visualization and Statistical Analysis
 
-This repository contains Python scripts demonstrating basic data visualization techniques using Matplotlib and statistical analysis using SciPy.
+The main.py contains Python scripts demonstrating basic data visualization techniques using Matplotlib and statistical analysis using SciPy.
 
 ## Examples
 
