@@ -30,4 +30,3 @@ Performs a chi-square test on survey data to evaluate whether the distribution o
 
 To run these examples, ensure you have Python and the required libraries (Matplotlib, NumPy, pandas, and SciPy) installed. Clone this repository and execute the scripts in your preferred Python environment.
 
-Feel free to explore, modify, and expand upon these examples as needed.
